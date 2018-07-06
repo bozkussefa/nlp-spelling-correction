@@ -10,7 +10,7 @@ To run the program : java Main datasetOriginal.txt results.txt
   
 First compile the code. Then run with the arguments given in the example. The first argument requested is the path to the data set's dataset (dataset.txt). The second argument is the name of the file in which the computed values are to be output. (result.txt).
   
-- args[0]: the data set file name(dataset.txt)  
+- args[0]: the data set file name(datasetOriginal.txt)  
 - args[1]: the output file name(result.txt)
 
 ## Details  
